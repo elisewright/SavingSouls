@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Africa on SavingSouls</title>
+    <link>http://example.com/tags/africa/</link>
+    <description>Recent content in Africa on SavingSouls</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 May 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.com/tags/africa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Birds</title>
+      <link>http://example.com/post/africa.birds/</link>
+      <pubDate>Thu, 21 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/africa.birds/</guid>
+      <description>Elise in her wheelchair went to Kenya, Rwanda and Uganda. She took these videos and edited them.   </description>
+    </item>
+    
+    <item>
+      <title>Elephants</title>
+      <link>http://example.com/post/africa.elephants/</link>
+      <pubDate>Thu, 21 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/africa.elephants/</guid>
+      <description>Videos taken and edited by Elise Krog.   </description>
+    </item>
+    
+    <item>
+      <title>Gorillas</title>
+      <link>http://example.com/post/africa.gorrilas/</link>
+      <pubDate>Thu, 21 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/africa.gorrilas/</guid>
+      <description>I am in a wheelchair and went to Africa to see the Gorillas in Rwanda. They carried me in a stretcher and I went and took these videos and edited them myself. It was a wonderful trip. I saw so much and the gorillas were a highlight. Anybody can go and see the gorillas - nothing must hold you back.   </description>
+    </item>
+    
+  </channel>
+</rss>
