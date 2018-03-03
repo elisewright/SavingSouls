@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SavingSouls</title>
-    <link>http://example.com/tags/</link>
+    <link>https://elisewright.github.io/SavingSouls/tags/</link>
     <description>Recent content in Tags on SavingSouls</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 May 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://elisewright.github.io/SavingSouls/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Africa</title>
-      <link>http://example.com/tags/africa/</link>
+      <link>https://elisewright.github.io/SavingSouls/tags/africa/</link>
       <pubDate>Thu, 21 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/africa/</guid>
+      <guid>https://elisewright.github.io/SavingSouls/tags/africa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Daily Devotions</title>
-      <link>http://example.com/tags/daily-devotions/</link>
+      <link>https://elisewright.github.io/SavingSouls/tags/daily-devotions/</link>
       <pubDate>Sat, 12 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/daily-devotions/</guid>
+      <guid>https://elisewright.github.io/SavingSouls/tags/daily-devotions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>http://example.com/tags/music/</link>
+      <link>https://elisewright.github.io/SavingSouls/tags/music/</link>
       <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/music/</guid>
+      <guid>https://elisewright.github.io/SavingSouls/tags/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sermons</title>
-      <link>http://example.com/tags/sermons/</link>
+      <link>https://elisewright.github.io/SavingSouls/tags/sermons/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/sermons/</guid>
+      <guid>https://elisewright.github.io/SavingSouls/tags/sermons/</guid>
       <description></description>
     </item>
     
